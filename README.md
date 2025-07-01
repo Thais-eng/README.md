@@ -20,11 +20,11 @@ Algo similar a lo que comprobrobaremos durante el desarrollo del proyecto.
 
 1. Conjunto de especies representativas del grupo Canidae.
 2. NCBI GenBank:Para buscar las secuencias del gen mitocondrial cytochrome b.
-3. BLAST:Verificar que las secuencias de ADN que descargaste realmente son del gen cytochrome b y su especie.
-4. MAFFT: Para alinear secuencias en fasta.
-5. IQ-TREE:Construir el árbol filogenético.
-6. FigTree:Visualizar y editar el árbol filogenético. 
-7. Git + GitHub: Para control de versiones y alojar el proyecto. 
+3. BLAST: Nos permite verificar que las secuencias de ADN que se descargaron corresponden al gen CYTB y su especie.
+4. MAFFT: Alinea las secuncias en FASTA.
+5. IQ-TREE: Construye el árbol filogenético.
+6. FigTree: Útil para visualizar y editar el árbol filogenético. 
+7. Git + GitHub: Lo usamos como control de versiones y alojamiento del proyecto. 
 
 ![ ](https://www.muyinteresante.com/wp-content/uploads/sites/5/2024/05/25/6651af599f2a8.jpeg)
 
@@ -36,6 +36,9 @@ Algo similar a lo que comprobrobaremos durante el desarrollo del proyecto.
 5. Cargamos el module load iqtree/2.2.2.6 y ejecutamos el gen con iqtree2 -s <archivo_alineado_del_gen> -m MFP -bb 1000 -nt AUTO
 6. Abrimos el documento (.treefile) que se genere y lo observamos en FigTree.
 7. Comparamos y observamos a detalle todo el arbol y la influencia del gen mitocondrial en cada una de las especies.
-8. Subimos los resultados al GitHub si es necesario al GitHub con : git add,git commit,git push
+8. Subimos los resultados al GitHub si es necesario con : git add,git commit,git push.
+
+![ ](https://t4.ftcdn.net/jpg/09/29/92/81/360_F_929928124_KBVWfkmjAkLfc54PfFPfvea7jJb1F23D.jpg)
+
  
  ![ ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Canide.jpg/640px-Canide.jpg)
