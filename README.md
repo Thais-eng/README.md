@@ -40,5 +40,4 @@ Algo similar a lo que comprobrobaremos durante el desarrollo del proyecto.
 
 ![ ](https://t4.ftcdn.net/jpg/09/29/92/81/360_F_929928124_KBVWfkmjAkLfc54PfFPfvea7jJb1F23D.jpg)
 
- 
- ![ ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Canide.jpg/640px-Canide.jpg)
+
